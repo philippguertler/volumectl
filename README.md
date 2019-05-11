@@ -1,6 +1,9 @@
 # volumectl
 This program lets you set the volume of predefined applications. 
 
+## Requirements
+* libpulse
+
 ## Configuration
 Create the file `~/.config/volumectl.conf` and write your matching rules in each line.
 
